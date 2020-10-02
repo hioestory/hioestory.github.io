@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-subtitle: Each post also has a subtitle
+subtitle: Each post also has a 섭타
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
