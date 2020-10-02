@@ -7,3 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [github]
 comments: true
 ---
+
+# "내 이야기를 쓰고 싶었다. 내 이야기를 쓰기 전에 내 이야기를 담을 그릇을 만들고 싶었다."
+## "빈 수레가 요란하다는 말이 생각나지만.."
+***
