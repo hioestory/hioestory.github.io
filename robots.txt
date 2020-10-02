@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hioestory.github.io/sitemap.xml
