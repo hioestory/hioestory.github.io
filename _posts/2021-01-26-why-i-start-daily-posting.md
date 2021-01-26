@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: "1. 일간 이현호의 미약한 시작"
 subtitle: "왜 나는 포스팅을 시작했는가?"
