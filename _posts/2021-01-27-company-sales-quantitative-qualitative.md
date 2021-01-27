@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "회사의 매출 증가는 양적, 질적 모두의 성장이다."
+title: "2. 회사의 매출 증가는 양적, 질적 모두의 성장이다."
 subtitle: "회사의 성장이란 무엇일까?"
 tags: [business]
 comments: true
