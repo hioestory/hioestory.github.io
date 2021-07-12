@@ -15,6 +15,7 @@ author: Hioestory
 
 navbar-links:
   About Me: "aboutme"
+  호호호: ""
   Post:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
